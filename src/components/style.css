@@ -1,0 +1,18 @@
+.btns{
+    width: 100px;
+    height: 20px;
+    background-color:rgb(165, 165, 165);
+    padding: 10px 10px;
+  }
+  span{
+    width: 100px;
+    height: 20px;
+    background-color:lightcoral;
+    color: white;
+    padding: 10px 10px;
+  }
+  
+.active{
+    color: blue;
+    font-size: 20px;
+ }
